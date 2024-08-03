@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cela4vis5qci6"]
+
+[ext_resource type="Texture2D" uid="uid://cnwqgo2m5kfem" path="res://Meowda_Bow.png" id="1_ypk11"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(584, 294)
+texture = ExtResource("1_ypk11")
